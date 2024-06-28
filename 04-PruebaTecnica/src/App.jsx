@@ -11,12 +11,16 @@ export function App () {
       .then(data => {
         const { fact } = data
         setFact(fact)
-
-        const threeFirstWords = fact.split(' ', 3).join(' ')
-        console.log(threeFirstWords)
-        setImageUrl(`https://cataas.com/cat/says/${threeFirstWords}?fontSize=20&type=square&fontColor=white`)
       })
   }, [])
+
+  useEffect(() => {
+    if (!fact) return
+    const threeFirstWords = fact.split(' ').slice(0, 3).join(' ')
+    const CAT_ENDPOINT_IMAGE_URL = `https://cataas.com/cat/says/${threeFirstWords}?fontSize=20&type=square`
+    setImageUrl(CAT_ENDPOINT_IMAGE_URL)
+  }, [fact])
+
   return (
     <main>
       <h1>App de Gatos</h1>
