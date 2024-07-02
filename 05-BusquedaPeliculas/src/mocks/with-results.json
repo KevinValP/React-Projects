@@ -1,0 +1,41 @@
+{
+  "Search": [
+    {
+      "Title": "Vampire Hunter D: Bloodlust",
+      "Year": "2000",
+      "imdbID": "tt0216651",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTczODUzNDctODFkZS00M2E4LTllNDEtYWJiOWRlMjE2ZmYzXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+    },
+    {
+      "Title": "Vampire Hunter D",
+      "Year": "1985",
+      "imdbID": "tt0090248",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGJmZmVlOTAtZmQyMS00NmUzLWJmZDUtZjM3M2MwMDdhZmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Vampire Hunter D",
+      "Year": "1999",
+      "imdbID": "tt3491244",
+      "Type": "game",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTljOTU5MDItMmMyZi00NDE5LTljYjctMjE4YjBjYmI2NzU0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Vampire Hunter D: Resurrection",
+      "Year": "2016–",
+      "imdbID": "tt4829262",
+      "Type": "series",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Making Vampire Hunter D: Bloodlust",
+      "Year": "2001",
+      "imdbID": "tt7284706",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxNDQ4NjQ3M15BMl5BanBnXkFtZTgwODc1OTA3MjE@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "5",
+  "Response": "True"
+}
